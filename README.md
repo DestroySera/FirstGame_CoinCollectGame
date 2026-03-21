@@ -26,7 +26,7 @@ Unreal Engine 5 + C++로 제작한 코인 수집 게임입니다.
 - [x] R키 재시작 기능
 
 ## 📷 스크린샷
-(스크린샷 추가 예정)
+![게임화면](https://github.com/user-attachments/assets/41745475-6c0b-4553-a298-93460fcd8a77)
 
 ## 📚 배운 것
 - Unreal C++ Actor / Component / GameMode 구조
@@ -36,3 +36,4 @@ Unreal Engine 5 + C++로 제작한 코인 수집 게임입니다.
 
 ## 한마디
 - 앞으로 포트폴리오 용으로 게임 제작 수준을 올릴 예정입니다.
+- 낮은 퀄리티이지만 이런 게임을 만들었구나 하고 참고해주세요.
